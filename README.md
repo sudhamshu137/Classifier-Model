@@ -14,6 +14,6 @@ This dataset is used to build 7 machine learning models i.e., classification mod
 |    Decision tree     |     0.953      |
 |    Random Forest     |     0.941      |
 
-</br></br>
+</br>
 
 As the models Kernel SVM classification and Decision Tree Classification have 95.3% being the highest of all, This dataset can be dealt with these two models.
